@@ -612,6 +612,37 @@ pre {
     width: 100%;
     height: auto;
 }
+#bitovi-logo {
+    width: 75%;
+    margin-top: 3em;
+    margin-left: 3em;
+}
+#bitovi-content {
+    background-color:rgb(246,249,231);
+}
+#sunrun-logo {
+    width: 83%;
+    margin-top: 3em;
+    margin-left: 3em;
+    margin-bottom: 2em;
+}
+#sunrun-content {
+    background-color: rgb(255,243,84);
+}
+#apple-logo {
+    margin-top: 2em;
+}
+#apple-content {
+    background-color: rgb(168,216,226);
+}
+#lifion-logo {
+    width: 75%;
+    margin-top: 2em;
+    margin-left: 2em;
+}
+#lifion-content {
+    background-color: rgb(247,77,99);
+}
 div.image,
 div.audio,
 div.video {
